@@ -13,7 +13,7 @@
   "list": [{
 	"groups": ["Acknowledgements"],
 	"ptitle": "The IPERION-HS Project",
-	"comment": "Integrating Platforms for the European Research Infrastructure ON Heritage Science (IPERION-HS) is a project funded by the EU framework programme Horizon 2020 and unites 24 partner organisations and their associates partners integrates national facilities of recognized excellence in Heritage Science and aims at establishing a distributed RI with a sustainable plan of activities, including offering access to a wide range of high-level scientific instruments, methodologies, data and tools for advancing knowledge and innovation in Heritage Science.",
+	"comment": "Integrating Platforms for the European Research Infrastructure ON Heritage Science (IPERION-HS) is a project funded by the EU framework programme Horizon 2020 and unites [24 partner organisations and their associates partners\https://www.iperionhs.eu/partners-list/], integrates national facilities of recognized excellence in Heritage Science and aims at establishing a distributed RI with a sustainable plan of activities, including offering access to a wide range of high-level scientific instruments, methodologies, data and tools for advancing knowledge and innovation in Heritage Science.",
 	"tagline": "IPERION-HS, \"Integrating Platforms for the European Research Infrastructure ON Heritage Science\", has received funding from the European Union's Horizon Europe project call HORIZON-INFRA-2021-DEV-02-02, under GA 871034",
 	"image": "graphics/IPERION-HS%20Logo.png",
 	"checked": "",
@@ -29,11 +29,11 @@
 },{
 	"groups": ["Acknowledgements"],
 	"ptitle": "The Hescida Project",
-	"comment": "Heritage Science Data Archive (HESCIDA) aims, through detailed data management planning, to upgrade Belgian Art Links and Tools (BALaT) to BALaT +, enabling access to searchable registries of KIK-IRPA datasets and data interoperability. HESCIDA will further extend the scope of data through the integration of data from KBR and KMKG-MRAH aiming to be the central digital resource for heritage science at the federal level (E-RIHS.be) for Belgium.",
+	"comment": "Heritage Science Data Archive (HESCIDA) aims, through detailed data management planning, to upgrade [Belgian Art Links and Tools (BALaT)|http://balat.kikirpa.be/] to BALaT +, enabling access to searchable registries of [KIK-IRPA|https://www.kikirpa.be/] datasets and data interoperability. HESCIDA will further extend the scope of data through the integration of data from [KBR|https://www.kbr.be/] and [KMKG-MRAH|https://www.kmkg-mrah.be/] aiming to be the central digital resource for heritage science at the federal level (E-RIHS.be) for Belgium.",
 	"tagline": "",
 	"image": "graphics/hescida_v2.png",
 	"checked": "",
-	"link": ""
+	"link": "https://hescida.kikirpa.be/"
 },{
 	"groups": ["Related Projects"],
 	"ptitle": "The PARTHENOS Project",
