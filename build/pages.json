@@ -6,8 +6,7 @@
 	"displaycode": false	
 	},
 "resources": {
-	"displayName": "Galleries and Lists",
-	"aliases": "Galleries and Lists",
+	"displayName": "Resources",
 	"class": "list",
 	"file": "list-example.json",
 	"title": "Simple Site - The <b>List and Gallery Extension</b>",
