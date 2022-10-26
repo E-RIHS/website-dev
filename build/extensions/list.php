@@ -220,7 +220,7 @@ END;
 function buildProjectCard ($la)
   {   
   if ($la["link"])
-    {$ltop= "<a href=\"$la[link]\" class=\"stretched-link nodec\">";
+    {$ltop= "<a href=\"$la[link]\" class=\"nodec\">";
       $lbottom = "</a>";
       $hclass =  "card-hov";}
   else
