@@ -13,7 +13,7 @@
   "list": [{
 	"groups": ["Acknowledgements"],
 	"ptitle": "The IPERION-HS Project",
-	"comment": "Integrating Platforms for the European Research Infrastructure ON Heritage Science (IPERION-HS) is a project funded by the EU framework programme Horizon 2020 and unites [24 partner organisations and their associates partners\https://www.iperionhs.eu/partners-list/], integrates national facilities of recognized excellence in Heritage Science and aims at establishing a distributed RI with a sustainable plan of activities, including offering access to a wide range of high-level scientific instruments, methodologies, data and tools for advancing knowledge and innovation in Heritage Science.",
+	"comment": "Integrating Platforms for the European Research Infrastructure ON Heritage Science (IPERION-HS) is a project funded by the EU framework programme Horizon 2020 and unites [24 partner organisations and their associates partners|https://www.iperionhs.eu/partners-list/], integrates national facilities of recognized excellence in Heritage Science and aims at establishing a distributed RI with a sustainable plan of activities, including offering access to a wide range of high-level scientific instruments, methodologies, data and tools for advancing knowledge and innovation in Heritage Science.",
 	"tagline": "IPERION-HS, \"Integrating Platforms for the European Research Infrastructure ON Heritage Science\", has received funding from the European Union's Horizon Europe project call HORIZON-INFRA-2021-DEV-02-02, under GA 871034",
 	"image": "graphics/IPERION-HS%20Logo.png",
 	"checked": "",
