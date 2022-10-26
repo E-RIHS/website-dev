@@ -5,40 +5,40 @@
   "groups": {
     "Acknowledgements" : {
       "comment": "This project has been assisted or directly supported by the following projects:",
-      "card": "full"},
+      "card": "project"},
     "Related Projects" : {
       "comment": "This project has made use of the work of the following project:",
-      "card": "full"}
+      "card": "project"}
     	},
   "list": [{
 	"groups": ["Acknowledgements"],
 	"ptitle": "The IPERION-HS Project",
-	"stitle": "Integrating Platforms for the European Research Infrastructure ON Heritage Science (IPERION-HS) is a project funded by the EU framework programme Horizon 2020 and unites 24 partner organisations and their associates partners integrates national facilities of recognized excellence in Heritage Science and aims at establishing a distributed RI with a sustainable plan of activities, including offering access to a wide range of high-level scientific instruments, methodologies, data and tools for advancing knowledge and innovation in Heritage Science.",
-	"comment": "IPERION-HS, \"Integrating Platforms for the European Research Infrastructure ON Heritage Science\", has received funding from the European Union's Horizon Europe project call HORIZON-INFRA-2021-DEV-02-02, under GA 871034",
+	"comment": "Integrating Platforms for the European Research Infrastructure ON Heritage Science (IPERION-HS) is a project funded by the EU framework programme Horizon 2020 and unites 24 partner organisations and their associates partners integrates national facilities of recognized excellence in Heritage Science and aims at establishing a distributed RI with a sustainable plan of activities, including offering access to a wide range of high-level scientific instruments, methodologies, data and tools for advancing knowledge and innovation in Heritage Science.",
+	"tagline": "IPERION-HS, \"Integrating Platforms for the European Research Infrastructure ON Heritage Science\", has received funding from the European Union's Horizon Europe project call HORIZON-INFRA-2021-DEV-02-02, under GA 871034",
 	"image": "graphics/IPERION-HS%20Logo.png",
 	"checked": "",
 	"link": "https://www.iperionhs.eu/"
 },{
 	"groups": ["Acknowledgements"],
 	"ptitle": "The E-RIHS IP Project",
-	"stitle": "The E-RIHS Implementation Phase (E-RIHS IP) consortium brings together representatives of the national nodes of the countries that expressed their willingness to support the establishment of the ERIC and one permanent observer. It aims at enabling the E-RIHS implementation phase and preparing the operation of E-RIHS ERIC, also in support of its positioning as the reference RI for the HS domain at the EU and global level.",
-	"comment": "E-RIHS IP, \"Implementation Phase of E-RIHS (European Research Infrastructure for Heritage Science)\", has received funding from the European Union's Horizon 2020 project call H2020-INFRAIA-2019-1, under GA 101079148",
+	"comment": "The E-RIHS Implementation Phase (E-RIHS IP) consortium brings together representatives of the national nodes of the countries that expressed their willingness to support the establishment of the ERIC and one permanent observer. It aims at enabling the E-RIHS implementation phase and preparing the operation of E-RIHS ERIC, also in support of its positioning as the reference RI for the HS domain at the EU and global level.",
+	"tagline": "E-RIHS IP, \"Implementation Phase of E-RIHS (European Research Infrastructure for Heritage Science)\", has received funding from the European Union's Horizon 2020 project call H2020-INFRAIA-2019-1, under GA 101079148",
 	"image": "graphics/e-rihs-eric-logo_ai.png",
 	"checked": "",
 	"link": "http://www.e-rihs.eu/e-rihs-is-coming/"
 },{
 	"groups": ["Acknowledgements"],
 	"ptitle": "The Hescida Project",
-	"stitle": "Heritage Science Data Archive (HESCIDA) aims, through detailed data management planning, to upgrade Belgian Art Links and Tools (BALaT) to BALaT +, enabling access to searchable registries of KIK-IRPA datasets and data interoperability. HESCIDA will further extend the scope of data through the integration of data from KBR and KMKG-MRAH aiming to be the central digital resource for heritage science at the federal level (E-RIHS.be) for Belgium.",
-	"comment": "",
+	"comment": "Heritage Science Data Archive (HESCIDA) aims, through detailed data management planning, to upgrade Belgian Art Links and Tools (BALaT) to BALaT +, enabling access to searchable registries of KIK-IRPA datasets and data interoperability. HESCIDA will further extend the scope of data through the integration of data from KBR and KMKG-MRAH aiming to be the central digital resource for heritage science at the federal level (E-RIHS.be) for Belgium.",
+	"tagline": "",
 	"image": "graphics/hescida_v2.png",
 	"checked": "",
 	"link": ""
 },{
 	"groups": ["Related Projects"],
 	"ptitle": "The PARTHENOS Project",
-	"stitle": "PARTHENOS aimed to strengthen the cohesion of research in the broad sector of Linguistic Studies, Humanities, Cultural Heritage, History, Archaeology and related fields through a thematic cluster of European Research Infrastructures, integrating initiatives, e-infrastructures and other world-class infrastructures, and building bridges between different, although tightly, interrelated fields.",
-	"comment": "PARTHENOS, \"Pooling Activities, Resources and Tools for Heritage E-research Networking, Optimization and Synergies\", received funding from the European Union's Horizon 2020 project call H2020-INFRADEV-2014-2015, under GA 654119",
+	"comment": "PARTHENOS aimed to strengthen the cohesion of research in the broad sector of Linguistic Studies, Humanities, Cultural Heritage, History, Archaeology and related fields through a thematic cluster of European Research Infrastructures, integrating initiatives, e-infrastructures and other world-class infrastructures, and building bridges between different, although tightly, interrelated fields.",
+	"tagline": "PARTHENOS, \"Pooling Activities, Resources and Tools for Heritage E-research Networking, Optimization and Synergies\", received funding from the European Union's Horizon 2020 project call H2020-INFRADEV-2014-2015, under GA 654119",
 	"image": "graphics/parthenos_logo.png",
 	"checked": "",
 	"link": "https://www.parthenos-project.eu/"

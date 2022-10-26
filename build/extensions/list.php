@@ -4,7 +4,7 @@
 
 $extensionList["list"] = "extensionCards";
 $blank = array("groups" => array(), "ptitle" => "",
-    "stitle" => "",  "comment" => "", "image" => "", "link" => "");
+    "stitle" => "",  "comment" => "", "tagline" => "", "image" => "", "link" => "");
 $defaultcard = "list";
 $displaychecked = true;
 $maxcols = false;
@@ -208,6 +208,60 @@ function buildFullCard ($la)
       </div>
     </div>
   </div>$lbottom
+</div>
+
+END;
+    $html = ob_get_contents();
+    ob_end_clean(); // Don't send output to client
+
+    return ($html);
+    }
+    
+function buildProjectCard ($la)
+  {   
+  if ($la["link"])
+    {$ltop= "<a href=\"$la[link]\" class=\"stretched-link nodec\">";
+      $lbottom = "</a>";
+      $hclass =  "card-hov";}
+  else
+    {$ltop= "";
+     $lbottom = "";
+     $hclass =  "";}
+     
+  
+  if ($la["stitle"])
+    {$stitle =  "<h5 class=\"card-title\">$la[stitle]</h5>";}
+  else
+    {$stitle =  "";}
+  
+  if ($la["comment"])
+    {$comment =  "<p class=\"card-text\">$la[comment]</p>";}
+  else
+    {$comment =  "";}
+    
+  if ($la["tagline"])
+    {$tagline =  "<p class=\"card-text\"><small class=\"text-muted\">$la[tagline]</small></p>";}
+  else
+    {$tagline =  "";}    
+    
+        
+  ob_start();      
+  echo <<<END
+
+<div class="card mb-3 $hclass">
+  <div class="row no-gutters">
+    <div class="col-md-4  my-auto" >
+      $ltop<img src="$la[image]" class="card-img" alt="$la[ptitle]">$lbottom
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h4 class="card-title">$ltop$la[ptitle]$lbottom</h4>
+        $stitle
+        $comment
+	$tagline
+      </div>
+    </div>
+  </div>
 </div>
 
 END;
