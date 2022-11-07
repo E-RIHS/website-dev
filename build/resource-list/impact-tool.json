@@ -1,0 +1,11 @@
+{
+	"groups": ["Preventive Conservation"],
+	"ptitle": "IMPACT Tool",
+	"comment": "The IMPACT app model predicts indoor concentrations of pollutants. The main otuput is the Indoor/Outdoor ratio (%), which is the percentage of outdoor pollutant concentrations that we can expect indoors. To find this value, the model estimates the deposition flux of pollutants to indoor surfaces, such as walls, furnishings and paintings.",
+	"tagline": "Josep Grau-Bove, Nigel Blades, Declan Kruppa, May Cassar (UCL Institute for Sustainable Heritage), and Terje Grøntoft (Norwegian Institute for Air research).",
+	"image": "https://i.ibb.co/QfqmRsp/graph.png",
+	"checked": "",
+	"link": "https://josepgrau.shinyapps.io/IMPACT/",
+	"support": "",
+	"source": ""
+}

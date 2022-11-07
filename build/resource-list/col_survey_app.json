@@ -1,0 +1,11 @@
+{
+	"groups": ["Preventive Conservation - Development"],
+	"ptitle": "Collection Surveys App",
+	"comment": "The purpose of this app, currently in development, is to help use statistics to plan and evaluate collection surveys. For example, it helps calculate the sample size required to obtain a certain margin of error. It also generates random lists of items to help sampling.",
+	"tagline": "Cristina Duran Casablancas, Hilde Schalkx, Scott Allan Orr and Josep Grau-Bové.",
+	"image": "graphics/col_survey_app.png",
+	"checked": "",
+	"link": "",
+	"support": "",
+	"source": ""
+}

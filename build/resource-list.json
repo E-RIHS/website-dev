@@ -1,0 +1,12 @@
+{
+  "defaultcard": "full",
+  "displaychecked": true,
+  "tableofcontents": true,
+  "groups": {
+    "Preventive Conservation" : {
+      "comment": "The motivation for the development of Digital Tools for Preventive Conservation is to provide simple-to-use Apps that may assist the PC expert User (Curator, Conservator or Scientist) to estimate the response of an object or a structure (materials’ system) to long-term exposure in indoor/outdoor environmental conditions or to a specific deterioration agent, environmental or incidental (e.g. to a transportation event):",
+      "card": "project"}
+    },
+  "list": "resource-list"
+	
+}

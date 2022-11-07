@@ -1,0 +1,11 @@
+{
+	"groups": ["Preventive Conservation"],
+	"ptitle": "Dust Tool",
+	"comment": "The Dust Tool predicts the deposition of particulate matter on surfaces. It calculates how long it will take for a surface to become visibly dirty, given a known concentration of particulate matter in the air. It is best used as an educational tool, to explore interactively the factors that cause the soiling of indoor surfaces.",
+	"tagline": "Josep Grau-Bove.",
+	"image": "graphics/dust_tool.png",
+	"checked": "",
+	"link": "https://josepgrau.shinyapps.io/dustbis/",
+	"support": "",
+	"source": ""
+}

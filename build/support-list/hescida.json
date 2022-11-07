@@ -1,0 +1,9 @@
+{
+	"groups": ["Acknowledgements"],
+	"ptitle": "The Hescida Project",
+	"comment": "Heritage Science Data Archive (HESCIDA) aims, through detailed data management planning, to upgrade [Belgian Art Links and Tools (BALaT)|http://balat.kikirpa.be/] to BALaT +, enabling access to searchable registries of [KIK-IRPA|https://www.kikirpa.be/] datasets and data interoperability. HESCIDA will further extend the scope of data through the integration of data from [KBR|https://www.kbr.be/] and [KMKG-MRAH|https://www.kmkg-mrah.be/] aiming to be the central digital resource for heritage science at the federal level (E-RIHS.be) for Belgium.",
+	"tagline": "",
+	"image": "graphics/hescida_v2.png",
+	"checked": "",
+	"link": "https://hescida.kikirpa.be/"
+}

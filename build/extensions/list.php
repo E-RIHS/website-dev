@@ -30,7 +30,7 @@ function extensionCards ($d, $pd)
   {
   global $blank, $defaultcard, $displaychecked, $maxcols;
   $gcontent = "";
-    
+
   if (isset($d["file"]) and file_exists($d["file"]))
     {
     $dets = getRemoteJsonDetails($d["file"], false, true);
@@ -47,14 +47,14 @@ function extensionCards ($d, $pd)
     // If a path to json files is provided they need to be loaded into an array
     if (!is_array($dets["list"] ))
       {
-      $lfs = glob($dets["list"]);
+      $lfs = glob($dets["list"]."/*.json");
+
       $dets["list"] = array();
       foreach($lfs as $file){
         $ja = getRemoteJsonDetails($file, false, true);
         if ($ja) {$dets["list"][] = $ja;}}
       }
 
-    
     foreach ($dets["list"] as $lno => $la)
       {
       //ensure each of the currently required fields are present.
